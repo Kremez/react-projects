@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b857ecb-0de1-439e-93a0-8c2c631ab2aa" name="Default Changelist" comment="" />
+    <list default="true" id="0b857ecb-0de1-439e-93a0-8c2c631ab2aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +26,33 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1YgJ4QLjqTmp6VlmcNkdkwzxRdL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/aaaa" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Dialogs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\react-projects\project-01\react-kabzda-1\src\components\Dialogs" />
+      <recent name="F:\react-projects\project-01\react-kabzda-1\src\components\Profile\MyPosts" />
+      <recent name="F:\react-projects\project-01\react-kabzda-1\src\redux" />
+      <recent name="F:\react-projects\project-01\react-kabzda-1\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,20 +68,48 @@
       <workItem from="1583402853255" duration="9262000" />
       <workItem from="1584452393701" duration="258000" />
       <workItem from="1584452781991" duration="41000" />
+      <workItem from="1586176726998" duration="4566000" />
+      <workItem from="1586702602069" duration="33223000" />
+      <workItem from="1587385397179" duration="1514000" />
+      <workItem from="1587476817944" duration="5981000" />
+      <workItem from="1587741850051" duration="11552000" />
+      <workItem from="1588067601796" duration="13231000" />
+      <workItem from="1588621927188" duration="2458000" />
+      <workItem from="1589015004707" duration="599000" />
+      <workItem from="1589016000626" duration="231000" />
+      <workItem from="1589017455637" duration="61000" />
+      <workItem from="1589017625545" duration="738000" />
+      <workItem from="1589020057977" duration="35000" />
+      <workItem from="1589021502141" duration="46000" />
+      <workItem from="1589281972257" duration="561000" />
+      <workItem from="1589291263658" duration="14780000" />
+      <workItem from="1590060367743" duration="164000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584452457742">
+    <state x="754" y="117" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587142928080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584452457742" />
+    <state x="754" y="117" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587142928080" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1589021554938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589021554938" />
+    <state x="366" y="17" key="SettingsEditor" timestamp="1589387337332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589387337332" />
     <state x="680" y="166" key="run.anything.popup" timestamp="1583411828128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="680" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583411828128" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587488499825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587488499825" />
   </component>
 </project>
